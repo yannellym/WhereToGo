@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+#WhereToGo is a website that help you to find restaurants, hotels, and attractions around you!
+
+
+https://user-images.githubusercontent.com/91508647/160260874-07d75077-fdca-4e3d-9746-1df600ca8eb5.mp4
+
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,7 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# GetFoods
-# WhereToGo
-# WhereToGo
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify]
