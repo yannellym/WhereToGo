@@ -1,5 +1,7 @@
-#WhereToGo is a website that help you to find restaurants, hotels, and attractions around you!
+## WhereToGo is a website that help you to find restaurants, hotels, and attractions around you!
 
+
+## See the live version here: https://deft-axolotl-60d6d5.netlify.app
 
 https://user-images.githubusercontent.com/91508647/160260874-07d75077-fdca-4e3d-9746-1df600ca8eb5.mp4
 
