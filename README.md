@@ -1,78 +1,77 @@
-## WhereToGo is a website that help you to find restaurants, hotels, and attractions around you!
 
-
-## See the live version here: https://deft-axolotl-60d6d5.netlify.app
-
+# WhereToGo
 https://user-images.githubusercontent.com/91508647/160260874-07d75077-fdca-4e3d-9746-1df600ca8eb5.mp4
 
+Project Demo: https://deft-axolotl-60d6d5.netlify.app  <br/>
+Project Social Media Promotion: https://www.linkedin.com/feed/update/urn:li:activity:6922179239895023616/
 
-Getting Started with Create React App
+## Table of Contents
+1. [Overview](#Overview)
+2. [Product Spec](#Product-Spec)
+3. [Wireframes](#Wireframes)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Overview
+### Description
+WhereToGo is a site that serves as a map and guide. You can type the name of a city/state and it’ll recommend restaurants, attractions, or hotels near that location.
 
-In the project directory, you can run:
 
-### `npm start`
+### App Evaluation
+- **Category:** Lifestyle
+- **Desktop/Mobile:** This app is primarily developed for desktop, it is similar to Google map. However, it is fully responsive and can be used on mobile.
+- **Story:** Users can enter a location, search for hotels, attractions, and restaurants. They can also drag the map and see different places. 
+- **Market:** Any individual could choose to use this app, anywhere, and at any time! It is focused on invidiuals that travel and commute to different places.
+- **Habit:** This app could be used as often as the user wants. It depends on how much they care travel or commute, and what exactly they're looking for.
+- **Scope:** The users can search for any location. Something that could be added is a feature to leave reviews for restaurants, and attractions.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Product Spec
+### 1. User Stories 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+** Must-have Stories**
 
-### `npm test`
+* User enters location
+* User searches for either restaurants/hotels/attractions.
+* User filters by star ratings 
+* User can see information about the chosen place 
+* User can drag the map and see nearby locations
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Optional Nice-to-have Stories**
 
-### `npm run build`
+* An option to leave reviews 
+* Ability to see places that have been visited
+* Like/save places of interest 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 2. Screen Archetypes
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Search 
+   * Upon loading of the application, the user can immediately search for places that interest them or locations they're curious about. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### 3. Navigation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Tab Navigation** 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Search
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Flow Navigation** (Screen to Screen)
+* Home -> search for a location -> scroll through places 
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Wireframes
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Figma prototype: https://www.figma.com/proto/JPrzn7wbxegDep0nStBFO4/WhereToGo?node-id=2%3A202&scaling=scale-down&page-id=2%3A31&starting-point-node-id=2%3A32
 
-### Code Splitting
+![Screen Shot 2022-04-20 at 6 18 36 PM](https://user-images.githubusercontent.com/91508647/164334330-16b64ea2-abd4-4f1e-aec4-fe0eeb49e8f0.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Interactive Prototype
 
-### Analyzing the Bundle Size
+<img src="https://media.giphy.com/media/yZ6XSpWyTfnbsxuDKW/giphy.gif" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Digital Wireframes & Mockups
 
-### Making a Progressive Web App
+![Screen Shot 2022-04-20 at 6 33 00 PM](https://user-images.githubusercontent.com/91508647/164335920-86834494-b31e-4763-a5b0-4aca093e1455.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify]
