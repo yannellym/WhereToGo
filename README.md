@@ -3,7 +3,6 @@
 https://user-images.githubusercontent.com/91508647/160260874-07d75077-fdca-4e3d-9746-1df600ca8eb5.mp4
 
 Project Demo: https://deft-axolotl-60d6d5.netlify.app  <br/>
-Project Social Media Promotion: https://www.linkedin.com/feed/update/urn:li:activity:6922179239895023616/
 
 ## Table of Contents
 1. [Overview](#Overview)
