@@ -12,7 +12,7 @@ Project Demo: https://deft-axolotl-60d6d5.netlify.app  <br/>
 
 ## Overview
 ### Description
-WhereToGo is a site that serves as a map and guide. You can type the name of a city/state and it’ll recommend restaurants, attractions, or hotels near that location.
+WhereToGo is a tool that serves as a map and guide for tourists and locals. You can type the name of a city/state and it’ll recommend restaurants, attractions, or hotels near that location.
 
 
 ### App Evaluation
